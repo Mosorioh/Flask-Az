@@ -1,2 +1,0 @@
-# Flask-Az
-Azure
